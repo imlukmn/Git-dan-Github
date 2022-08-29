@@ -1,0 +1,11 @@
+# Git merupakan salah satu dari VCS
+  - VCS Fungsinya adalah untuk melacak versi atau history dari setiap perubahan yang terjadi pada Software
+# Git Merupakan sebuah Sorfware yang mampu mengelola File di dalam Folder
+  - Folder dalam git disebut "Repository"
+
+# Setiap perubahan yang terjadi pada repository akan direkam pada "branch master (Cabang Utama)". setiap perubahan yang direkam ini dinamakan "COMMIT"
+  - Informasi yang terdapat pada Commit 
+    _HASH : Penanda unik pada sebuah Commit
+    _Author : Pelaku yang melakukan Commit
+    _Date : Waktu perubahan Commit
+    _Message : Pesan yang ditinggalkan untuk mendeskripsikan setiap perubahan yang dilakukan
