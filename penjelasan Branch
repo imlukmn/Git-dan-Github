@@ -1,0 +1,5 @@
+Selain dapat melakukan commit git juga dapat membuat cabang pada "branch master (cabang utama / Main)" dengan membuat branch baru
+
+# keuntungan 
+//berkerja dengan branch adalah dapat dapat membuat sebuah fitur dan mengisolasi fitur 
+//tersebut di cabang tersendiri tanpa mempengaruhi code utamanya dan cabang cang lainnya
